@@ -1,0 +1,53 @@
+::-webkit-scrollbar, *::-webkit-scrollbar {
+    display: none;
+    overflow: hidden;
+  }
+  
+  ion-content {
+    overflow: hidden;
+    --overflow: hidden;
+  }
+  
+  .scroll-content {
+    overflow: hidden;
+  }
+  
+  ion-list {
+    background: transparent;
+    transform: translateY(15vh);
+    ion-item {
+      border: 1px solid var(--ion-color-medium);
+      border-radius: 10px;
+    }
+    ion-row {
+      margin-bottom: 5vh;
+    }
+    ion-button {
+      width: 30vh;
+      margin: auto;
+    }
+    .alignItems {
+      ion-checkbox, ion-note {
+        display: inline-block;
+        vertical-align: middle;
+      }
+      ion-checkbox {
+        margin-right: 3vw;
+        --size: 1.1rem;
+      }
+    }
+    
+    ion-col {
+      ion-note {
+        font-size: 0.85rem;
+      }
+    }
+  }
+
+  .backButton {
+      position: absolute;
+      top: 190px;
+      left: 15px;
+      font-size: 2rem;
+  }
+  
