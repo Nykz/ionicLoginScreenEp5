@@ -3,9 +3,8 @@ E-Learning App - Auth Screens UI Kit with form validation (like BYJU, Unacademy)
 
 Watch the full Episode on YouTube at https://www.youtube.com/watch?v=d-P3L7_nY-o&list=PLixvNT19uDK6Fk6glTj18ONQRpCAVnY0G&index=5&ab_channel=CodingTechnyks
 
-<img src="https://github.com/Nykz/ionicLoginScreenEp5/blob/main/screen1.png" width="200" height="400" />
-<img src="https://github.com/Nykz/ionicLoginScreenEp5/blob/main/screen2.png" width="200" height="400" />
-<img src="https://github.com/Nykz/ionicLoginScreenEp5/blob/main/screen3.png" width="200" height="400" />
+<img src="https://github.com/Nykz/ionicLoginScreenEp5/blob/main/localhost_8100_login4(Galaxy%20S5).png" width="200" height="400" />
+<img src="https://github.com/Nykz/ionicLoginScreenEp5/blob/main/localhost_8100_login41(Galaxy%20S5).png" width="200" height="400" />
 
 Steps to Setup this beautiful login screen in your system
 
